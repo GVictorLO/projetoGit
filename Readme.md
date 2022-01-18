@@ -1,0 +1,1 @@
+Readme no projeto git apenas para exemplificação e explicação
